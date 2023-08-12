@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm kot</h1>
 <h3 align="center">I develop apps in Dart</h3>
+<p float="left">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=atageldi194229&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOTBCTAKAHE" />
+</p>
 
 - 🔭 I’m currently working on Apps [?????](https://youtu.be/dQw4w9WgXcQ)
 
