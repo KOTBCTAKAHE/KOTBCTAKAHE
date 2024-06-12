@@ -1,19 +1,19 @@
-[![Header](https://cs13.pikabu.ru/post_img/big/2023/01/12/3/167349419815032904.png "Header")](https://github.com/KOTBCTAKAHE)
+[![Header]
 
-<h1 align="center">Hi 👋, I'm kot</h1>
-<h3 align="center">I develop apps in Dart</h3>
+<h1 align="center">Дарова! 👋, я котяра</h1>
+<h3 align="center">Учу питон, иногда могу аппы делать.</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KOTBCTAKAHE&show_icons=true&theme=tokyonight&count_private=true" alt="kot's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOTBCTAKAHE&layout=compact&theme=tokyonight" alt="kot's top languages" />
 </p>
 
-- 🔭 I’m currently working on Apps [?????](https://youtu.be/dQw4w9WgXcQ)
-- 🌱 I’m currently learning **Java, Python, Dart**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/KOTBCTAKAHE/)
-- 📫 How to reach me: [Telegram](https://t.me/m/Shs0U1eVMGYx)
+- 🔭  [?????](https://youtu.be/dQw4w9WgXcQ)
+- 🌱 Изучаю **Java, Python, Dart**
+- 👨‍💻 Все мои проекты доступны в [GitHub](https://github.com/KOTBCTAKAHE/)
+- 📫 Связаться со мной: [Telegram](https://t.me/m/Shs0U1eVMGYx)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Связаться со мной:</h3>
 <p align="left">
   <a href="https://t.me/m/Shs0U1eVMGYx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
