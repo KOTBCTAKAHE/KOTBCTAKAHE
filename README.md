@@ -9,7 +9,7 @@
 </p>
 
 - 🔭  [?????](https://youtu.be/dQw4w9WgXcQ)
-- 🌱 Изучаю **Java, Python, Dart**
+- 🌱 Изучаю **JS, Python, Dart**
 - 👨‍💻 Все мои проекты доступны в [GitHub](https://github.com/KOTBCTAKAHE/)
 - 📫 Связаться со мной: [Telegram](https://t.me/m/Shs0U1eVMGYx)
 
