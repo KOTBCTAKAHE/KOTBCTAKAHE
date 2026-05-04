@@ -50,7 +50,7 @@ I build modern applications with clean UI and scalable architecture.
 
 📊 GitHub Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+"Stats" (https://github-readme-stats.vercel.app/api?username=KOTBCTAKAHE&show_icons=true)
 
 ---
 
